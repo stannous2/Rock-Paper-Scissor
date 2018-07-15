@@ -1,1 +1,1 @@
-# Rock-Paper-Scissor
+# This is a simple single player Rock-Paper-Scissor game. 
